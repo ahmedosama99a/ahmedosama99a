@@ -63,5 +63,5 @@
 <h3 align="center">✨ GitHub Stats & GIFs</h3>
 <p align="center">
   
-  <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="30%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="30%" />
 </p>
