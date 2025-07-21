@@ -1,9 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ahmed Osama</h1>
 <h3 align="center">Data Science Practitioner | Aspiring Data Analyst | AI & Machine Learning Enthusiast | CS Student</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200"/>
-</p>
+---
+
+<table>
+  <tr>
+    <td style="width:70%; vertical-align:top;">
+      <ul>
+        <li>🔭 I’m currently working on a Heart Failure Prediction Model</li>
+        <li>🌱 I’m currently learning Advanced Machine Learning Algorithms</li>
+        <li>👯 I’m looking to collaborate on Open Source Medical Projects</li>
+      </ul>
+    </td>
+    <td style="width:30%">
+      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="180"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -51,4 +64,3 @@
 </p>
 
 ---
-
