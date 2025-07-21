@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Osama</h1>
 <h3 align="center">Data Science Practitioner | Aspiring Data Analyst | AI & Machine Learning Enthusiast | CS Student</h3>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200"/>
+</p>
+
 ---
 
 <h3 align="center">🌐 Connect with me:</h3>
@@ -44,12 +48,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-
+</p>
 
 ---
 
-<h3 align="center">✨ GitHub Stats & GIFs</h3>
-<p align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="30%" />
-</p>
