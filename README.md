@@ -5,12 +5,12 @@
 
 <table>
   <tr>
-   
+    <!-- الصورة على الشمال -->
     <td style="width:30%; text-align:center;">
       <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="180"/>
     </td>
     
-   
+    <!-- الكلام كله على اليمين -->
     <td style="width:70%; vertical-align:top;">
       <h3>🌐 Connect with me:</h3>
       <p>
